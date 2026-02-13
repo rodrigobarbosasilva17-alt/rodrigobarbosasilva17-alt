@@ -52,4 +52,4 @@
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-roodrigo.barbosa.silva17@escola.pr.gov.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:roodrigo.barbosa.silva17@escola.pr.gov.br)](mailto:roodrigo.barbosa.silva17@escola.pr.gov.br)
-[![GitHub](https://img.shields.io/github/followers/rodrigobarbosasilva17-altlabel=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![GitHub](https://img.shields.io/github/followers/rodrigobarbosasilva17-alt?label=follow&style=social)](LINK-DO-SEU-GITHUB)
